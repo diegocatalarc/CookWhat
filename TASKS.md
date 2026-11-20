@@ -15,7 +15,7 @@
 - [x] Validar prototipo v1 con mamá: pidió platos para la resistencia a la insulina y preparación paso a paso
 
 ## Pendiente
-- [ ] Rebanada 1: esqueleto instalable y publicado
+- [ ] Rebanada 1: esqueleto instalable y publicado (hecho en rama, falta aprobar y publicar)
 - [ ] Rebanada 2: catálogo + "¿Qué hago hoy?" + "Dame otra opción"
 - [ ] Rebanada 3: configuración de gustos
 - [ ] Rebanada 4: "Lo cociné" + historial + no repetir
