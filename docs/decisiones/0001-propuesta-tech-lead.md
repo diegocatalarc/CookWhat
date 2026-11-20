@@ -59,3 +59,9 @@ semanas funciona, se conecta Supabase.
 
 Flujo por tarea: rama → Desarrollador → pull request → QA → merge → se
 publica sola. Desde la rebanada 2, mamá ya puede usarla.
+
+## Decisiones complementarias (aprobadas)
+- Framework: **React + TypeScript** (con Vite). Alternativas evaluadas: Vue,
+  Svelte, Preact, JavaScript simple. Motivo: lo más útil para aprender y la
+  mayor comunidad.
+- Publicación: **GitHub Pages** (recomendado; se confirma al conectar el repo).
