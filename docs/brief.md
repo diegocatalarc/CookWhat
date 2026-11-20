@@ -38,6 +38,16 @@ No le cuesta cocinar ni comprar: le cuesta **decidir**.
    - Un paso por pantalla, con ilustración de la acción, letra grande y
      temporizador cuando hay tiempos de cocción.
 
+## Nutricionista y chef (v3)
+La app separa **qué comer** de **qué cocinar**, con dos personajes:
+- **Tu nutricionista**: metas semanales editables (legumbres ≥3, pescado ≥2,
+  carne roja ≤2, platos "de vez en cuando" ≤1) y reglas fijas (medio plato
+  de verduras, sin azúcar agregada, etc.). Cada día dice qué conviene comer.
+  Lo ideal es cargar aquí las indicaciones de su nutricionista real; la app
+  no inventa indicaciones médicas.
+- **Tu chef**: propone el plato que cumple la meta del día y respeta sus gustos.
+- Ilustraciones: íconos simples por acción (decisión del stakeholder, opción 1).
+
 ## Enfoque de salud (v2)
 Todo el catálogo se adapta a la resistencia a la insulina: más verduras,
 legumbres y fibra, menos papa y harinas refinadas, preparaciones al horno
