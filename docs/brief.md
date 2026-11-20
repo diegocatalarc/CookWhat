@@ -9,7 +9,7 @@ No le cuesta cocinar ni comprar: le cuesta **decidir**.
 ## Usuaria
 - Mi mamá. Cocina sola en la casa.
 - Vive en Nacimiento, región del Biobío, Chile.
-- Se maneja bien con el celular.
+- Se maneja bien con el celular (Android).
 - Ya domina un repertorio de platos caseros chilenos.
 - Tiene **resistencia a la insulina** y quiere alimentarse mejor (feedback de la usuaria, v2).
 

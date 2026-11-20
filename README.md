@@ -7,6 +7,15 @@ Abre la app y el plato del día ya está decidido, según sus gustos.
 - Tablero de tareas: [TASKS.md](TASKS.md)
 - Equipo (roles): [.claude/agents/](.claude/agents/)
 
+## Acuerdo de trabajo con el stakeholder
+
+- **Ningún rol toma decisiones solo.** Antes de cada decisión (tecnología,
+  diseño, alcance, librerías) se presentan opciones con pros y contras y una
+  recomendación, y Diego decide.
+- **Antes de empezar cada tarea** se explica qué se va a hacer y se espera su
+  aprobación. **Al terminarla** se muestra el resultado antes de integrarlo.
+- Las explicaciones van en lenguaje simple, sin jerga.
+
 ## Cómo trabajamos
 
 Trabajamos como un equipo real. Cada etapa la lleva un rol y el stakeholder
