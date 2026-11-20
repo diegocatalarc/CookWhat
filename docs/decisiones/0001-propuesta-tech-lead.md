@@ -1,6 +1,12 @@
 # Propuesta del Tech Lead: tecnología, datos y división del trabajo
 
-**Estado:** propuesta, pendiente de aprobación del stakeholder.
+**Estado:** ✅ aprobada por el stakeholder.
+
+**Decisiones:**
+1. Tecnología: **app web instalable (PWA)**. La usuaria usa Android, donde
+   la instalación desde Chrome y los avisos funcionan bien.
+2. Datos: **en el teléfono primero, nube después**, con botón de respaldo.
+3. Trabajo: **por rebanadas verticales**.
 
 ## 1. Tecnología
 
